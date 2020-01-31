@@ -1,3 +1,6 @@
-# Repository for class project
+# lucasalvaradocali build instructions
 
-This readme is a placeholder that should be replaced
+"npm run build" to build the project
+
+"npm start" to start and serve the built project
+

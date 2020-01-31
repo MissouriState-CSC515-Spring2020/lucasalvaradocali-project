@@ -1,0 +1,14 @@
+{
+  "name": "rollup-tutorial",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "rollup -c",
+	"start": "serve public"
+  },
+  "devDependencies": {
+    "@rollup/plugin-json": "^4.0.1"
+  },
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
